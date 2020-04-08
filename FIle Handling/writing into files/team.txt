@@ -1,0 +1,3 @@
+Hello this text written from Java Application.
+We can write onto team file from java application
+with the help of BufferWriter. This will overwrite all content in file.
